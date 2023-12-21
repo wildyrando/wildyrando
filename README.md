@@ -11,5 +11,5 @@
 ### 📊 My Github Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=wildyrando&show_icons=true&theme=transparent" width="450" height="225"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyrando&layout=compact&theme=transparent&langs_count=12" width="384" height="225"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildyrando&layout=compact&theme=transparent&langs_count=12" width="400" height="225"/>
 </div>
